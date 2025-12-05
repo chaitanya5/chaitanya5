@@ -29,30 +29,17 @@ I’ve contributed deeply to the **Horizon Protocol** ecosystem (Core Smart Cont
 
 ## 🛠️ Tech Stack
 
-### **Programming Languages**
-- Solidity • Rust • Golang • TypeScript  
+### **Programming Languages**                         **Blockchain Platforms**
+- Solidity • Rust • Golang • TypeScript               • Ethereum • BNB Chain • Solana  • Hyperledger Fabric  
 
-### **Blockchain Platforms**
-- Ethereum • BNB Chain  
-- Solana  
-- Hyperledger Fabric  
-
-### **Frameworks / Tools**
-- Foundry • Hardhat • Anchor  
+### **Frameworks / Tools**                            **Databases**
+- Foundry • Hardhat • Anchor                          • PostgreSQL • MongoDB • Redis
 - Docker • Git  
 - The Graph (Subgraphs)  
 - Node.js • Axum • OpenTelemetry  
 
-### **Databases**
-- PostgreSQL • MongoDB • Redis  
-
 ### **Web3 Expertise**
-- Uniswap V1/V2/V3  
-- Aave V1  
-- Compound V1  
-- Synthetix V2  
-- Horizon Protocol  
-- Opensea
+- Uniswap V1/V2/V3  • Aave V1  • Compound V1  • Synthetix V2  • Horizon Protocol  • Opensea
 
 ---
 
@@ -132,7 +119,7 @@ Built a DeFi app using decentralized oracle feeds.
  
 
 ---
----
+
 
 ## 💬 Let’s Build the Future of DeFi
 
